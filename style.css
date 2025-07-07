@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+}
+div{
+    margin-top: 10%;
+    margin-left: 300pt;
+}
+.image{
+    border: white solid 5px;
+    padding: 0%;
+    border-radius: 25%;
+}
+.heading1{
+  color: white;
+  margin-left: 30%;
+   font-family: "Bebas Neue", sans-serif;
+
+}
+.poster1{
+    color: white;
+    margin-left: 20%;
+    font-family: "Bebas Neue", sans-serif;
+}
